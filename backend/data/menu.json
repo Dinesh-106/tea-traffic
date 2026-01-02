@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Masala Chai",
+    "description": "Strong tea brewed with aromatic spices and ginger.",
+    "price": 40,
+    "category": "Tea",
+    "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Ginger Lemon Honey Tea",
+    "description": "Soothing blend of ginger, lemon, and honey for immunity.",
+    "price": 50,
+    "category": "Tea",
+    "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Kullad Chai",
+    "description": "Traditional earthen cup tea with a smoky flavor.",
+    "price": 45,
+    "category": "Tea",
+    "image": "/kullad_tea.png"
+  },
+  {
+    "id": 4,
+    "name": "Bun Maska",
+    "description": "Soft bun slathered with fresh butter.",
+    "price": 30,
+    "category": "Snacks",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Vegetable Samosa",
+    "description": "Crispy pastry filled with spiced potatoes and peas.",
+    "price": 20,
+    "category": "Snacks",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Cream Roll",
+    "description": "Flaky puff pastry filled with sweet cream.",
+    "price": 25,
+    "category": "Snacks",
+    "image": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?auto=format&fit=crop&w=600&q=80"
+  }
+]

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+# google-generativeai # Not used anymore
+python-dotenv
+sentence-transformers
+numpy
+openai
+scikit-learn
